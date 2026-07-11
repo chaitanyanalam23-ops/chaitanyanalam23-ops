@@ -72,14 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyanalam23-ops&theme=tokyonight" alt="streak" />
 </p>
 
-<!-- ====================== TROPHIES ====================== -->
-
-## 🏆 Trophy Shelf
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyanalam23-ops&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
-</p>
-
 <!-- ====================== ACTIVITY GRAPH ====================== -->
 
 ## 📈 Grand Line Voyage — Activity
