@@ -38,8 +38,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaitanyanalam23-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyanalam23-ops&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaitanyanalam23-ops&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaitanyanalam23-ops&theme=tokyonight" alt="languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitanyanalam23-ops&theme=tokyonight" alt="most committed languages" />
 </p>
 
 <p align="center">
